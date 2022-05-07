@@ -13,4 +13,4 @@ docker run
 
 3. The notebook "solution.ipynb" contains the same code as "main.py", while it shows intermediate results.
 
-4. The top 10 songs in top 50 loggest sessions are in "top50_songs.csv".
+4. The top 10 songs in top 50 loggest sessions are in "top10_songs.csv".
