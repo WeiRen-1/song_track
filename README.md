@@ -1,9 +1,9 @@
 # How to run:
 ```bash
-docker build
+make build
 ```
 ```bash
-docker run
+make run
 ```
 
 # Note:
